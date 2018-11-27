@@ -21,7 +21,7 @@ Get things running, then fix them later.
 If the implementation is hard to explain, it's enterprisey.
 If the implementation is easy to explain, it won't take enough time to do.
 Namespaces are too hard, just use "from module import *"!
-HUM NAHI SUDHARENGE ~ @pkaura """
+Hum nhi sudharenge"""
 b = a.splitlines()  # Lines that are split are more liney
 c = lambda d: d.strip()  # I make sure that lines don't have akksesive whitespace EOLs.
 for e in (f for f in b if True or False):  # place here a list generator for aggressive
