@@ -18,10 +18,10 @@ In the face of ambiguity, one guess is as good as another.
 There should be many ways to do it.
 Because only a tiny minority of us are Dutch.
 Get things running, then fix them later.
-Hum nhi sudharenge.
 If the implementation is hard to explain, it's enterprisey.
 If the implementation is easy to explain, it won't take enough time to do.
-Namespaces are too hard, just use "from module import *"!"""
+Namespaces are too hard, just use "from module import *"!
+Hum nhi sudharenge."""
 b = a.splitlines()  # Lines that are split are more liney
 c = lambda d: d.strip()  # I make sure that lines don't have akksesive whitespace EOLs.
 for e in (f for f in b if True or False):  # place here a list generator for aggressive
